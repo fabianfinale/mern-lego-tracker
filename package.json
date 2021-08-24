@@ -1,0 +1,19 @@
+{
+  "name": "mern-lego-tracker",
+  "version": "1.0.0",
+  "description": "A Lego bricks tracking app, built with the MERN stack and styled with Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianfinale/mern-lego-tracker.git"
+  },
+  "author": "Fabian Finalé Franqui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabianfinale/mern-lego-tracker/issues"
+  },
+  "homepage": "https://github.com/fabianfinale/mern-lego-tracker#readme"
+}
